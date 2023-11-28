@@ -16,7 +16,7 @@ img {
     /* largeur du parent */
     width: 100%;
     overflow-x: scroll;
-
+    scroll-behavior: smooth;
 }
 
 .carrousel_ecran {
@@ -29,4 +29,7 @@ img {
 .carrousel_ecran figure {
     /* enlève les marges par défaut */
     margin: 0;
+}
+
+.carrousel_btn{
 }
