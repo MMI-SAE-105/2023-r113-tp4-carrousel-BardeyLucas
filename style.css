@@ -15,6 +15,7 @@ img {
     display: flex;
     /* largeur du parent */
     width: 100%;
+    overflow-x: scroll;
 
 }
 
