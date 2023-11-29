@@ -37,6 +37,7 @@ img {
 }
 
 .carrousel_btn {
+    margin-top: 57.5px;
     position: absolute;
     top: calc(100vw / 16 * 9 / 2 + 1rem);
     /* centre verticalement ~50% vertical */
