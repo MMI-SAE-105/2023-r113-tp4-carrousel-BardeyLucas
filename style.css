@@ -73,3 +73,10 @@ img {
     /* espace entre les enfants */
     gap: 1rem;
 }
+.carrousel figcaption{
+    font-size: 10px;
+}
+.carrousel h2{
+    font-size: 50px;
+    margin: 10px;
+}
