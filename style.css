@@ -34,6 +34,7 @@ img {
 }
 .carrousel {
     position: relative;
+    background-color: #fff;
 }
 
 .carrousel_btn {
@@ -84,4 +85,7 @@ img {
 .carrousel a{
     color: black;
     text-decoration: none;
+}
+body{
+    background-color: black;
 }
