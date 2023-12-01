@@ -1,6 +1,8 @@
 * {
 /* change le box model */
     box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+    color: white;
 }
 
 img {
@@ -50,7 +52,7 @@ img {
     border: none;
     display: grid;
     place-content: center;
-    color: #fff;
+    
 }
 
 .carrousel_btn-avant {
@@ -82,7 +84,7 @@ img {
     margin: 10px;
 }
 .carrousel a{
-    color: black;
+    color: rgb(255, 204, 0);
     text-decoration: none;
     font-size: 8px;
 }
