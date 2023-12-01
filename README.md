@@ -3,3 +3,5 @@
 - Prénom : Lucas
 - URL public : https://fastidious-marigold-3d6d19.netlify.app/
 
+probléme : le carousel à était développer uniquement en écran factionné (les visuelles fonctionnerons donc seulement dans ce format la)
+(voir capture d'écran)
