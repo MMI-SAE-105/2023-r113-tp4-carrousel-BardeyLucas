@@ -78,10 +78,11 @@ img {
     font-size: 10px;
 }
 .carrousel h2{
-    font-size: 50px;
+    font-size: 30px;
     margin: 10px;
 }
 .carrousel a{
     color: black;
     text-decoration: none;
+    font-size: 8px;
 }
