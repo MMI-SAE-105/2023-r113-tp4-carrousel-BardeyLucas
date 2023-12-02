@@ -94,20 +94,20 @@ img {
 /*pour la pésonalisation de la scroll bar, je me suis basé sur un script trouver sur interent, le voici*/
 /*selecteur ciblant la bar de scroll*/
 ::-webkit-scrollbar {
-    width: 12px;
-    /* width of the entire scrollbar */
+    width: 0px;
+    /*Ce paramétre obligatoire semble utile qu'a affiché la scroll bar*/
 }
 /*selecteur ciblant la partie du "fond" de la bar de scoll*/
 ::-webkit-scrollbar-track {
-    background: orange;
+    background: rgb(0, 0, 0);
     /* color of the tracking area */
 }
 /*selecteur ciblant la tirette de la bar de scroll*/
 ::-webkit-scrollbar-thumb {
-    background-color: blue;
+    background-color: rgb(255, 204, 0);
     /* color of the scroll thumb */
-    border-radius: 20px;
+    border-radius: 8px;
     /* roundness of the scroll thumb */
-    border: 3px solid orange;
+    border: 6px solid rgb(3, 0, 9);
     /* creates padding around scroll thumb */
 }
