@@ -3,5 +3,5 @@
 - Prénom : Lucas
 - URL public : https://fastidious-marigold-3d6d19.netlify.app/
 
-probléme : le carousel à était développer uniquement en écran factionné (les visuelles fonctionnerons donc seulement dans ce format la)
-(voir capture d'écran)
+probléme : les boutons latéraux du carouselles sembles subir des bugs, leurs fonctionnement ce déclanche qu'aprés un ou plusieurs changement d'image.
+Le probléme semble aussi ce corrigé en effectuant directemenbt la commande "parent = $x0.$refs.parent" dans la console du site
